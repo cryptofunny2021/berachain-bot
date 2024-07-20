@@ -1,3 +1,9 @@
+## اول python  و pip رو نصب میکنیم
+```
+sudo apt update
+sudo apt install python3 python3-pip
+pip3 install web3
+```
 ##  یه فایل به اسم دلخواه درست میکنیم
 
 ```
